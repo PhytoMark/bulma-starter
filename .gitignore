@@ -1,0 +1,30 @@
+
+# js
+/node_modules
+.yarn-meta
+
+# vscode
+.vscode/*
+
+# idea
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+local.properties
+
+# log and db
+log/
+*.log
+*.sql
+*.sqlite
+
+# os
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+
