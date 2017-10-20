@@ -1,0 +1,25 @@
+{
+  "name": "bulma-starter",
+  "version": "1.0.0",
+  "description": "Starterpack for bulma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsonlwh7/bulma-starter.git"
+  },
+  "author": "PhytoMark sdn bhd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnsonlwh7/bulma-starter/issues"
+  },
+  "homepage": "https://github.com/johnsonlwh7/bulma-starter#readme",
+  "dependencies": {
+    "bulma": "^0.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
